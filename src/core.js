@@ -1,4 +1,4 @@
-// Exercise: Writing good assertions test
+// Exercise: Writing good assertions
 export function getCoupons() {
   return [
     { code: 'SAVE20NOW', discount: 0.2 },
